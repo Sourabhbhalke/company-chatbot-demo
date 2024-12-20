@@ -1,5 +1,6 @@
 # company-chatbot-demo
-text
+![image](https://github.com/user-attachments/assets/60d55e37-5f9b-4303-98b2-a6469fa28458)
+
 # Company Chatbot Template
 
 This repository contains a **Streamlit-based chatbot template** designed for companies to assist their clients in multiple languages (English and German). The chatbot provides services such as consulting, digital transformation guidance, and general company information.
