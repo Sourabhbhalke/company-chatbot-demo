@@ -1,7 +1,9 @@
 # company-chatbot-demo
 ![image](https://github.com/user-attachments/assets/60d55e37-5f9b-4303-98b2-a6469fa28458)
 
-# commits 23-12-2024
+## commits 28-12-2024
+- added promotional video - youtube link https://youtu.be/NEB1mRpBAcM (unlisted - internal use only).(23-12-2024)
+## commits 23-12-2024
 - added promotional video-related content such as SSML files and sythesized voice, in line with business plan of promoting this as a service through social media and website.(23-12-2024)
 # Company Chatbot Template
 
