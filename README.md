@@ -3,6 +3,10 @@
 
 ## commits 28-12-2024
 - added promotional video - youtube link https://youtu.be/NEB1mRpBAcM (unlisted - internal use only).(23-12-2024)
+- #### 🎥 YouTube Demo  
+Check out our project demo on YouTube:  
+[![YouTube Video](https://img.youtube.com/vi/NEB1mRpBAcM/0.jpg)](https://www.youtube.com/watch?v=NEB1mRpBAcM)  
+
 ## commits 23-12-2024
 - added promotional video-related content such as SSML files and sythesized voice, in line with business plan of promoting this as a service through social media and website.(23-12-2024)
 # Company Chatbot Template
