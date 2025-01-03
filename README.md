@@ -25,7 +25,8 @@
 ---
 
 ## 1. Commits
-
+### 1.2 Commits 03-01-2025
+- Added Updated architecture diagrams with mermaid
 ### 1.1 Commits 28-12-2024
 - Added promotional video - YouTube link: https://youtu.be/NEB1mRpBAcM (unlisted - internal use only).  
 #### 🎥 YouTube Demo  
