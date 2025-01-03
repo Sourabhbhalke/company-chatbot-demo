@@ -25,15 +25,15 @@
 ---
 
 ## 1. Commits
-### 1.2 Commits 03-01-2025
+### 1.3 Commits 03-01-2025
 - Added Updated architecture diagrams with mermaid
-### 1.1 Commits 28-12-2024
+### 1.2 Commits 28-12-2024
 - Added promotional video - YouTube link: https://youtu.be/NEB1mRpBAcM (unlisted - internal use only).  
 #### 🎥 YouTube Demo  
 Check out our project demo on YouTube:  
 [![YouTube Video](https://img.youtube.com/vi/NEB1mRpBAcM/0.jpg)](https://www.youtube.com/watch?v=NEB1mRpBAcM)  
 
-### 1.2 Commits 23-12-2024
+### 1.1 Commits 23-12-2024
 - Added promotional video-related content such as SSML files and synthesized voice, in line with the business plan of promoting this as a service through social media and website.
 
 ---
